@@ -92,6 +92,7 @@ p {
   background-color: #2589bd;
 }
 
+/*consolidated stylings to .benefit-section*/
 .benefit-section {
   margin-bottom: 32px;
   color: #ffffff;
@@ -107,7 +108,7 @@ p {
   margin: 10px auto;
   max-width: 150px;
 }
-
+/*consolidated stylings to .content-section*/
 .content-section {
   margin-bottom: 20px;
   padding: 50px;
