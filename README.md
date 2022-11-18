@@ -2,12 +2,11 @@
 
 ## Description
 
-Horiseon Refactor is a webpage made accessible by updated HTML and CSS elements. Motivation for this refactor was directed by the need for inclusive design, enhanced search engine optimization, and effective maintenance. The refactoring included replacing all '<div>' tags with the appropriate, corresponding semantic HTML elements. In order to render this webpage, the Cascading Style Sheet was also updated by removing and replacing selector and property redundancies to reflect a more streamlined, clean and readable sheet, following semantic structure. The enhancements in the index.html and style.css files not only make this project more efficient for the developer, but also the browser.
-
+Horiseon Refactor is a webpage made accessible by updated HTML and CSS elements. Motivation for this refactor was directed by the need for inclusive design, enhanced search engine optimization, and effective maintenance. The refactoring included replacing all non-semantic tags with the appropriate, corresponding semantic HTML elements. In order to render this webpage, the Cascading Style Sheet was also updated by removing and replacing selector and property redundancies to reflect a more streamlined, clean and readable sheet, following semantic structure. The enhancements in the index.html and style.css files not only make this project more efficient for the developer, but also the browser.
 
 ## Screenshot
-![horiseonrefactor2](horiseonrefactor2.png)
 
+![horiseonrefactor-2](horiseonrefactor-2.png)
 
 ## License
 
