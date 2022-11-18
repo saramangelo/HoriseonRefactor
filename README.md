@@ -6,7 +6,7 @@ Horiseon Refactor is a webpage made accessible by updated HTML and CSS elements.
 
 
 ## Screenshot
-![horiseonrefactor](horiseonrefactor.png)
+![horiseonrefactor2](horiseonrefactor2.png)
 
 
 ## License
