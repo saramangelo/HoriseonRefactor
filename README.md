@@ -8,8 +8,9 @@ Horiseon Refactor is a webpage made accessible by updated HTML and CSS elements.
 
 ![horiseonrefactor-2](horiseonrefactor-2.png alt=Screenshot)
 
-## Link to webpage: 
-https://saramangelo.github.io/HoriseonRefactor/ 
+## Link to webpage:
+
+https://saramangelo.github.io/HoriseonRefactor/ alt=Webpage link
 
 ## License
 
