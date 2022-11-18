@@ -6,11 +6,11 @@ Horiseon Refactor is a webpage made accessible by updated HTML and CSS elements.
 
 ## Screenshot
 
-![horiseonrefactor-2](horiseonrefactor-2.png alt=Screenshot)
+![horiseonrefactor-2](horiseonrefactor-2.png)
 
 ## Link to webpage:
 
-https://saramangelo.github.io/HoriseonRefactor/ alt=Webpage link
+https://saramangelo.github.io/HoriseonRefactor/
 
 ## License
 
