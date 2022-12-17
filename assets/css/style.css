@@ -1,13 +1,16 @@
+/* UNIVERSAL OVER ENTIRE DOCUMENT */
 * {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
 }
 
+/* BODY */
 body {
   background-color: #d9dcd6;
 }
 
+/* HEADER */
 header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -17,16 +20,19 @@ header {
 }
 /*changed to header from .header*/
 
+/* h1 */
 h1 {
   display: inline-block;
   font-size: 48px;
 }
 
+/* header, hi, "SEO" */
 header h1 .seo {
   color: #d9dcd6;
 }
 /*changed to header h1 .sea from .header h1 .seo*/
 
+/* navbar */
 nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -36,26 +42,31 @@ nav {
 }
 /*changed from .header div to nav*/
 
+/* UNORDERED LIST */
 ul {
   list-style-type: none;
 }
 /*changed from .header div ul to ul*/
 
+/* LIST ITEMS */
 li {
   display: inline-block;
   margin-left: 25px;
 }
 /*changed from .header div ul li to li*/
 
+/* LINKS */
 a {
   color: #ffffff;
   text-decoration: none;
 }
 
+/* PARAGRAPHS */
 p {
   font-size: 16px;
 }
 
+/* HERO IMAGE */
 .hero {
   height: 800px;
   width: 100%;
@@ -65,22 +76,26 @@ p {
   background-position: center;
 }
 
+/* IMG */
 .float-left {
   float: left;
   margin-right: 25px;
 }
 
+/* IMG */
 .float-right {
   float: right;
   margin-left: 25px;
 }
 
+/* CONTENT SECTIONS */
 .content {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
 
+/* BENEFIT SECTIONS */
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -98,11 +113,13 @@ p {
   color: #ffffff;
 }
 
+/* BENEFIT SECTION HEADING */
 .benefit-section h3 {
   margin-bottom: 10px;
   text-align: center;
 }
 
+/* BENEFIT SECTION IMG */
 .benefit-section img {
   display: block;
   margin: 10px auto;
@@ -118,15 +135,18 @@ p {
   color: #ffffff;
 }
 
+/* CONTENT SECTION IMG */
 .content-section img {
   max-height: 200px;
 }
 
+/* CONTENT SECTION HEADING */
 .content-section h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
 
+/* FOOTER */
 footer {
   padding: 30px;
   clear: both;
@@ -135,6 +155,7 @@ footer {
   text-align: center;
 }
 
+/* FOOTER HEADING */
 footer h2 {
   font-size: 20px;
 }
